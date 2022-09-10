@@ -9,6 +9,6 @@ We have also deployed the app in heroku for testing and we encourage user to rep
 1. First we will clean the data and perform thorough analysis.
 2. Perform EDA for insights
 3. Feature Engineering to make the data more compact and scaled to use it in the ML model
-4. Feature Selection to ignore the unwanted columns and pick out the right features which are actually make a difference in the model performance.
+4. Feature Selection to ignore the unwanted columns and pick out the right features which actually improve the model performance.
 5. Then choosing the right model for prediction and do performance tunning.
 6. Create Flask web app and deploy it in Heroku.

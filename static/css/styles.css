@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    background-color: #ffffff;
+}
+
+header {
+    font-family: 'Calibri', serif;
+    padding-top: 20;
+    padding-bottom: 20;
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.btn {
+    background-color: #4595fd;
+    color: #000000;
+}
+
+
+input {
+    margin: 0.25rem;
+    border-radius: 0.5rem;
+    text-align: center;
+    width: 40%;
+    background-color: #ffffff;
+}
+
+@media screen and (max-width: 500px) {
+    input {
+        width: 100%;
+    }
+}

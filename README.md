@@ -1,14 +1,11 @@
 # Diabetes_Prediction
 
 # Overview
------------
 This is a simple Flask app to predict diabetes based on medical parameters obtained from patients blood report.
 
 We have also deployed the app in heroku for testing and we encourage user to report bug to make the model more reliable.
 
 # Workflow
------------
-
 1. First we will clean the data and perform thorough analysis.
 2. Perform EDA for insights
 3. Feature Engineering to make the data more compact and scaled to use it in the ML model
